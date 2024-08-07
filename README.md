@@ -5,4 +5,5 @@ This project involves analyzing an e-commerce dataset using Jupyter Notebook and
 I have provided the following links in the repository:
 
 Dataset Link: Direct link to the e-commerce dataset used in the project.
+
 Queries File Link: Link to the file containing the SQL queries executed for this project.
